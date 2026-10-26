@@ -1,30 +1,19 @@
 {
   "resume": [
     {
-      "fullName": "dg",
-      "location": "gff",
-      "job": "Cybersecurity Analyst",
-      "email": "dg",
-      "phone": "gff",
-      "linkedin": "fgdf",
-      "github": "fsdfds",
-      "degree": "dg",
-      "college": "gff",
-      "year": "fgdf",
-      "skills": [
-        "Network Security",
-        "Threat Detection",
-        "SIEM",
-        "Incident Response",
-        "Vulnerability Assessment",
-        "Linux",
-        "Cryptography",
-        "Security Monitoring",
-        "Risk Assessment",
-        "Ethical Hacking"
-      ],
-      "summary": "Cybersecurity analyst focused on identifying threats, analyzing vulnerabilities, monitoring security events, and protecting organizational systems and data.",
-      "id": 1
+      "fullName": "",
+      "location": "",
+      "job": "",
+      "email": "",
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
+      "skills": [],
+      "summary": "",
+      "id": "3"
     },
     {
       "fullName": "",
@@ -39,7 +28,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 2
+      "id": "4"
     },
     {
       "fullName": "",
@@ -54,7 +43,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 3
+      "id": "5"
     },
     {
       "fullName": "",
@@ -69,7 +58,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 4
+      "id": "6"
     },
     {
       "fullName": "",
@@ -84,7 +73,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 5
+      "id": "7"
     },
     {
       "fullName": "",
@@ -99,7 +88,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 6
+      "id": "8"
     },
     {
       "fullName": "",
@@ -114,7 +103,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 7
+      "id": "9"
     },
     {
       "fullName": "",
@@ -129,7 +118,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 8
+      "id": "10"
     },
     {
       "fullName": "",
@@ -144,7 +133,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 9
+      "id": "11"
     },
     {
       "fullName": "",
@@ -159,7 +148,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 10
+      "id": "12"
     },
     {
       "fullName": "",
@@ -174,7 +163,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 11
+      "id": "13"
     },
     {
       "fullName": "",
@@ -189,7 +178,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 12
+      "id": "14"
     },
     {
       "fullName": "",
@@ -204,7 +193,7 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 13
+      "id": "21"
     },
     {
       "fullName": "",
@@ -219,63 +208,11 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 14
+      "id": "22"
     },
     {
-      "fullName": "Abin",
-      "location": "fgeg",
-      "job": "Cybersecurity Analyst",
-      "email": "fgdfg@gmail.com",
-      "phone": "9863234567",
-      "linkedin": "3456789",
-      "github": "5467890[",
-      "degree": "4356u7",
-      "college": "34567ui",
-      "year": "5467io",
-      "skills": [
-        "Network Security",
-        "Threat Detection",
-        "SIEM",
-        "Incident Response",
-        "Vulnerability Assessment",
-        "Linux",
-        "Cryptography",
-        "Security Monitoring",
-        "Risk Assessment",
-        "Ethical Hacking"
-      ],
-      "summary": "Cybersecurity analyst focused on identifying threats, analyzing vulnerabilities, monitoring security events, and protecting organizational systems and data.",
-      "id": 15
-    },
-    {
-      "fullName": "Abin",
-      "location": "fgeg",
-      "job": "Cybersecurity Analyst",
-      "email": "fgdfg@gmail.com",
-      "phone": "9863234567",
-      "linkedin": "3456789",
-      "github": "5467890[",
-      "degree": "4356u7",
-      "college": "34567ui",
-      "year": "5467io",
-      "skills": [
-        "Network Security",
-        "Threat Detection",
-        "SIEM",
-        "Incident Response",
-        "Vulnerability Assessment",
-        "Linux",
-        "Cryptography",
-        "Security Monitoring",
-        "Risk Assessment",
-        "Ethical Hacking"
-      ],
-      "summary": "Cybersecurity analyst focused on identifying threats, analyzing vulnerabilities, monitoring security events, and protecting organizational systems and data.",
-      "id": 16
-    },
-    {
-      "fullName": "antony",
-      "location": "fs",
+      "fullName": "",
+      "location": "",
       "job": "",
       "email": "",
       "phone": "",
@@ -286,11 +223,11 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 17
+      "id": "23"
     },
     {
-      "fullName": "antony",
-      "location": "fs",
+      "fullName": "",
+      "location": "",
       "job": "",
       "email": "",
       "phone": "",
@@ -301,64 +238,64 @@
       "year": "",
       "skills": [],
       "summary": "",
-      "id": 18
+      "id": "24"
     },
     {
       "fullName": "abin@gmail.com",
-      "location": "shoranur",
-      "job": "UI/UX Designer",
-      "email": "4356u7",
-      "phone": "34567ui",
-      "linkedin": "5467io",
-      "github": "xsd",
-      "degree": "s",
-      "college": "s",
-      "year": "s",
+      "location": "fgfg",
+      "job": "Cybersecurity Analyst",
+      "email": "",
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
       "skills": [
-        "Figma",
-        "Wireframing",
-        "Prototyping",
-        "User Research",
-        "Information Architecture",
-        "Interaction Design",
-        "Usability Testing",
-        "Design Systems",
-        "Typography",
-        "Color Theory"
+        "Network Security",
+        "Threat Detection",
+        "SIEM",
+        "Incident Response",
+        "Vulnerability Assessment",
+        "Linux",
+        "Cryptography",
+        "Security Monitoring",
+        "Risk Assessment",
+        "Ethical Hacking"
       ],
-      "summary": "UI/UX designer focused on creating intuitive, accessible, and visually engaging digital experiences through research, prototyping, and user-centered design.",
-      "id": 19
+      "summary": "Cybersecurity analyst focused on identifying threats, analyzing vulnerabilities, monitoring security events, and protecting organizational systems and data.",
+      "id": "RPO3fZAVAac"
     },
     {
       "fullName": "abin@gmail.com",
-      "location": "shoranur",
-      "job": "UI/UX Designer",
-      "email": "4356u7",
-      "phone": "34567ui",
-      "linkedin": "5467io",
-      "github": "xsd",
-      "degree": "s",
-      "college": "s",
-      "year": "s",
+      "location": "fgfg",
+      "job": "Cybersecurity Analyst",
+      "email": "",
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
       "skills": [
-        "Figma",
-        "Wireframing",
-        "Prototyping",
-        "User Research",
-        "Information Architecture",
-        "Interaction Design",
-        "Usability Testing",
-        "Design Systems",
-        "Typography",
-        "Color Theory"
+        "Network Security",
+        "Threat Detection",
+        "SIEM",
+        "Incident Response",
+        "Vulnerability Assessment",
+        "Linux",
+        "Cryptography",
+        "Security Monitoring",
+        "Risk Assessment",
+        "Ethical Hacking"
       ],
-      "summary": "UI/UX designer focused on creating intuitive, accessible, and visually engaging digital experiences through research, prototyping, and user-centered design.",
-      "id": 20
+      "summary": "Cybersecurity analyst focused on identifying threats, analyzing vulnerabilities, monitoring security events, and protecting organizational systems and data.",
+      "id": "kKuM-UfM8YY"
     },
     {
-      "fullName": "",
-      "location": "",
-      "job": "",
+      "fullName": "fhrhy",
+      "location": "r3f4rgg",
+      "job": "Data Analyst",
       "email": "",
       "phone": "",
       "linkedin": "",
@@ -366,14 +303,25 @@
       "degree": "",
       "college": "",
       "year": "",
-      "skills": [],
-      "summary": "",
-      "id": 21
+      "skills": [
+        "Excel",
+        "SQL",
+        "Python",
+        "Pandas",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Statistics",
+        "Data Cleaning",
+        "Reporting"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, cleaning, analyzing, and visualizing data to support informed business decisions.",
+      "id": "C1nyBwG44kE"
     },
     {
-      "fullName": "",
-      "location": "",
-      "job": "",
+      "fullName": "fhrhy",
+      "location": "r3f4rgg",
+      "job": "Data Analyst",
       "email": "",
       "phone": "",
       "linkedin": "",
@@ -381,39 +329,51 @@
       "degree": "",
       "college": "",
       "year": "",
-      "skills": [],
-      "summary": "",
-      "id": 22
-    },
-    {
-      "fullName": "",
-      "location": "",
-      "job": "",
-      "email": "",
-      "phone": "",
-      "linkedin": "",
-      "github": "",
-      "degree": "",
-      "college": "",
-      "year": "",
-      "skills": [],
-      "summary": "",
-      "id": 23
-    },
-    {
-      "fullName": "",
-      "location": "",
-      "job": "",
-      "email": "",
-      "phone": "",
-      "linkedin": "",
-      "github": "",
-      "degree": "",
-      "college": "",
-      "year": "",
-      "skills": [],
-      "summary": "",
-      "id": 24
+      "skills": [
+        "Excel",
+        "SQL",
+        "Python",
+        "Pandas",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Statistics",
+        "Data Cleaning",
+        "Reporting"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, cleaning, analyzing, and visualizing data to support informed business decisions.",
+      "id": "AjBkEPoPTxQ"
     }
-  ]
+  ],
+  "downloads": [
+    {
+      "fullName": "abin@gmail.com",
+      "location": "fgfg",
+      "job": "Cybersecurity Analyst",
+      "email": "",
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
+      "skills": [
+        "Network Security",
+        "Threat Detection",
+        "SIEM",
+        "Incident Response",
+        "Vulnerability Assessment",
+        "Linux",
+        "Cryptography",
+        "Security Monitoring",
+        "Risk Assessment",
+        "Ethical Hacking"
+      ],
+      "summary": "Cybersecurity analyst focused on identifying threats, analyzing vulnerabilities, monitoring security events, and protecting organizational systems and data.",
+      "id": "_uj4ITF-8mA",
+      "imgUrl": "http://res.cloudinary.com/yarlrcof/image/upload/v1793037010/vugbuwzgn3cfqua1aivq.jpg",
+      "formattedDate": "26/10/2026,11:20:09 pm"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
